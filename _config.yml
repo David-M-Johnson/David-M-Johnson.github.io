@@ -23,9 +23,9 @@ repository: "academicpages/david-m-johnson.github.io"
 author:
   # Biographic information
   avatar: "profile.png"
-  name: "Short Bio / Links"
+  name: ""
   pronouns: # example: "she/her"
-  bio: "Short biography for the left-hand sidebar"
+  bio: ""
   location: "Ithaca, NY"
   employer: "Cornell University"
   uri: # URL
@@ -46,7 +46,7 @@ author:
   bitbucket: # Username - Update with your username on the site
   codepen: # Username
   dribbble: # Username
-  github: "academicpages"
+  github: "david-m-johnson" # Username - Update with your username on the site
   kaggle: # Username
   stackoverflow: # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
