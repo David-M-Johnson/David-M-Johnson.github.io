@@ -21,7 +21,7 @@ redirect_from:
   - Duties includes: Updates and improvements to template
   - Supervisor: The Users
 
-- Fall 2015: Research Assistant
+- Fall 2020: Research Assistant
 
   - GitHub University
   - Duties included: Merging pull requests
